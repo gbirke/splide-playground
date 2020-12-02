@@ -1,0 +1,25 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+
+}
+
+.columnContainer {
+	display: flex;
+	border: dotted 1px grey;
+}
+
+.column {
+	width: 50%;
+	flex: 0 0 50%;
+	box-sizing: border-box;
+}
+
+.slideContainer {
+	background: grey;
+}
+
+.slidepara {
+	margin: 1em 3.5em;
+}
